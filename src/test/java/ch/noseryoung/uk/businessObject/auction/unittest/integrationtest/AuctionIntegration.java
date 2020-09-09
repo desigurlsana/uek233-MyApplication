@@ -1,3 +1,4 @@
+//TESTING ENVIROMENT
 package ch.noseryoung.uk.businessObject.auction.unittest.integrationtest;
 
 import ch.noseryoung.uk.businessObject.auction.Auction;
