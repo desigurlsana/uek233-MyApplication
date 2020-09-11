@@ -59,6 +59,10 @@ dependencies {
     testImplementation "org.mockito:mockito-core:3.0.0"
 }
 
+bootJar {
+    archiveFileName.set("app.jar")
+}
+
 sonarqube {
   properties {
     property "sonar.projectKey", "desigurlsana_uek233_MyApplication"
